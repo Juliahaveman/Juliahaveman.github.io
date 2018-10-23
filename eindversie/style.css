@@ -23,8 +23,8 @@ a:hover {
 
 div {
 	width:600px;
-	height:100%
-	background-color:#999999;
+	height:100%;
+	background-color: #999999;
 	margin-left:auto;
 	margin-right:auto;
 	border-radius:5px;
@@ -34,14 +34,16 @@ h1 , p {
 	font-family:"Arial", "Helvetica", "Sans-serif";
 	text-indent:10px;
 	padding:0px 10px 0px 10px;
-	
 }
 
 ul {
 	float: left;
 	width: 560px;
-	
-	
+}
+
+img {
+	width: 550px;
+}
 	
 	
 	
